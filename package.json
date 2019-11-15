@@ -1,0 +1,22 @@
+{
+  "name": "Tuesday12Nov",
+  "version": "1.0.0",
+  "description": "This is a demonstration of the power of Node!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "startHere": "node startMeUp"
+  },
+  "keywords": [
+    "node",
+    "education",
+    "pedagogy"
+  ],
+  "author": "Michael P. Rogers",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.7.1",
+    "express": "^4.17.1",
+    "readline-sync": "^1.4.10"
+  }
+}
